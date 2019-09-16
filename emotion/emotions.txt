@@ -1,0 +1,484 @@
+{
+"emotions": [
+	{
+		"name": "Laugh_Barbarian.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Laugh_Barbarian.png?raw=true"
+	},
+	{
+		"name": "Butterfly_PEKKA.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Butterfly_PEKKA.png?raw=true"
+	},
+	{
+		"name": "Laughing_King.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Laughing_King.png?raw=true"
+	},
+	{
+		"name": "Anticipation_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Anticipation_Goblin.png?raw=true"
+	},
+	{
+		"name": "Shaking_Fish.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Shaking_Fish.png?raw=true"
+	},
+	{
+		"name": "Crying_King.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Crying_King.png?raw=true"
+	},
+	{
+		"name": "Xkeleton.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Xkeleton.png?raw=true"
+	},
+	{
+		"name": "Eastern_Bunny_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Eastern_Bunny_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Noodles_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Noodles_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Helmet_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Helmet_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Musket_Musketeer.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Musket_Musketeer.png?raw=true"
+	},
+	{
+		"name": "Painting_Ram_Rider.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Painting_Ram_Rider.png?raw=true"
+	},
+	{
+		"name": "Spatula_Mini_PEKKA.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Spatula_Mini_PEKKA.png?raw=true"
+	},
+	{
+		"name": "Finger_CRL.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Finger_CRL.png?raw=true"
+	},
+	{
+		"name": "Shocked_Edragon.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Shocked_Edragon.png?raw=true"
+	},
+	{
+		"name": "Confused_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Confused_Goblin.png?raw=true"
+	},
+	{
+		"name": "Think_Hog.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Think_Hog.png?raw=true"
+	},
+	{
+		"name": "Angry_King.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Angry_King.png?raw=true"
+	},
+	{
+		"name": "Idea_Skeleton.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Idea_Skeleton.png?raw=true"
+	},
+	{
+		"name": "Fuse_Bomber.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Fuse_Bomber.png?raw=true"
+	},
+	{
+		"name": "Trumpet_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Trumpet_Princess.png?raw=true"
+	},
+	{
+		"name": "Coins_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Coins_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Mirror_Prince.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Mirror_Prince.png?raw=true"
+	},
+	{
+		"name": "Scream_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Scream_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Smash_Giant.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Smash_Giant.png?raw=true"
+	},
+	{
+		"name": "Cake_Rascal.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Cake_Rascal.png?raw=true"
+	},
+	{
+		"name": "Happy_Royal_Ghost.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Happy_Royal_Ghost.png?raw=true"
+	},
+	{
+		"name": "Error_Mini_PEKKA.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Error_Mini_PEKKA.png?raw=true"
+	},
+	{
+		"name": "Sleep_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Sleep_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Shrug_Wizard.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Shrug_Wizard.png?raw=true"
+	},
+	{
+		"name": "Thumbs-Up_Giant.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Thumbs-Up_Giant.png?raw=true"
+	},
+	{
+		"name": "Stuned_Miner.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Stuned_Miner.png?raw=true"
+	},
+	{
+		"name": "Yawn_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Yawn_Princess.png?raw=true"
+	},
+	{
+		"name": "Happy_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Happy_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Treasure_Rascal.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Treasure_Rascal.png?raw=true"
+	},
+	{
+		"name": "Gem_Royal_Ghost.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Gem_Royal_Ghost.png?raw=true"
+	},
+	{
+		"name": "Muscle_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Muscle_Princess.png?raw=true"
+	},
+	{
+		"name": "This_Is_Fine_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/This_Is_Fine_Goblin.png?raw=true"
+	},
+	{
+		"name": "Happy_Minion.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Happy_Minion.png?raw=true"
+	},
+	{
+		"name": "Rocket_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Rocket_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Flame_Wizard.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Flame_Wizard.png?raw=true"
+	},
+	{
+		"name": "Anchored_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Anchored_Goblin.png?raw=true"
+	},
+	{
+		"name": "Thumbs-Up_King.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Thumbs-Up_King.png?raw=true"
+	},
+	{
+		"name": "Tea_Prince.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Tea_Prince.png?raw=true"
+	},
+	{
+		"name": "Wet_Fisherman.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Wet_Fisherman.png?raw=true"
+	},
+	{
+		"name": "Peace_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Peace_Princess.png?raw=true"
+	},
+	{
+		"name": "Baby_Dragon_Licking.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Baby_Dragon_Licking.png?raw=true"
+	},
+	{
+		"name": "Goblin_Cage_Muscle.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Goblin_Cage_Muscle.png?raw=true"
+	},
+	{
+		"name": "Deal_with_it_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Deal_with_it_Princess.png?raw=true"
+	},
+	{
+		"name": "Angry_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Angry_Princess.png?raw=true"
+	},
+	{
+		"name": "Hammer_Hog.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Hammer_Hog.png?raw=true"
+	},
+	{
+		"name": "Surrender_Prince.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Surrender_Prince.png?raw=true"
+	},
+	{
+		"name": "Santa_Ice_Wizard.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Santa_Ice_Wizard.png?raw=true"
+	},
+	{
+		"name": "Roar_Barbarian.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Roar_Barbarian.png?raw=true"
+	},
+	{
+		"name": "Pick_Barbarian.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Pick_Barbarian.png?raw=true"
+	},
+	{
+		"name": "Happy_Baby_Dragon.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Happy_Baby_Dragon.png?raw=true"
+	},
+	{
+		"name": "Grass_Ram.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Grass_Ram.png?raw=true"
+	},
+	{
+		"name": "Cake_Giant.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Cake_Giant.png?raw=true"
+	},
+	{
+		"name": "Nail_Biter_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Nail_Biter_Goblin.png?raw=true"
+	},
+	{
+		"name": "Excited_Musketeer.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Excited_Musketeer.png?raw=true"
+	},
+	{
+		"name": "Arrow_Dark_Prince.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Arrow_Dark_Prince.png?raw=true"
+	},
+	{
+		"name": "Eastern_Egg_Dragon.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Eastern_Egg_Dragon.png?raw=true"
+	},
+	{
+		"name": "Thumbs-Up_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Thumbs-Up_Goblin.png?raw=true"
+	},
+	{
+		"name": "Head_Skeleton.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Head_Skeleton.png?raw=true"
+	},
+	{
+		"name": "Third_Anniversary_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Third_Anniversary_Goblin.png?raw=true"
+	},
+	{
+		"name": "Thumbs-Up_Ewiz.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Thumbs-Up_Ewiz.png?raw=true"
+	},
+	{
+		"name": "Darkness_Wizard.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Darkness_Wizard.png?raw=true"
+	},
+	{
+		"name": "Surrender_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Surrender_Goblin.png?raw=true"
+	},
+	{
+		"name": "Whistling_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Whistling_Princess.png?raw=true"
+	},
+	{
+		"name": "Trophy_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Trophy_Goblin.png?raw=true"
+	},
+	{
+		"name": "Love_Skeleton.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Love_Skeleton.png?raw=true"
+	},
+	{
+		"name": "Dab_Wizard.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Dab_Wizard.png?raw=true"
+	},
+	{
+		"name": "Thundering_Edragon.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Thundering_Edragon.png?raw=true"
+	},
+	{
+		"name": "Kiss_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Kiss_Princess.png?raw=true"
+	},
+	{
+		"name": "Sword_Mini_PEKKA.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Sword_Mini_PEKKA.png?raw=true"
+	},
+	{
+		"name": "Sea_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Sea_Goblin.png?raw=true"
+	},
+	{
+		"name": "Kiss_Log.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Kiss_Log.png?raw=true"
+	},
+	{
+		"name": "Blink_Inferno_Tower.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Blink_Inferno_Tower.png?raw=true"
+	},
+	{
+		"name": "Champion_Trophy_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Champion_Trophy_Goblin.png?raw=true"
+	},
+	{
+		"name": "Bow_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Bow_Princess.png?raw=true"
+	},
+	{
+		"name": "Scream_Hog.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Scream_Hog.png?raw=true"
+	},
+	{
+		"name": "Goblin_Cage_Escape.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Goblin_Cage_Escape.png?raw=true"
+	},
+	{
+		"name": "Fish_Slap.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Fish_Slap.png?raw=true"
+	},
+	{
+		"name": "Dance_Mini_PEKKA.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Dance_Mini_PEKKA.png?raw=true"
+	},
+	{
+		"name": "Tongue_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Tongue_Goblin.png?raw=true"
+	},
+	{
+		"name": "Pirate_Hog.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Pirate_Hog.png?raw=true"
+	},
+	{
+		"name": "Kiss_Hog.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Kiss_Hog.png?raw=true"
+	},
+	{
+		"name": "Surprise_Fisherman.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Surprise_Fisherman.png?raw=true"
+	},
+	{
+		"name": "Flower_Miner.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Flower_Miner.png?raw=true"
+	},
+	{
+		"name": "Eating_Giant.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Eating_Giant.png?raw=true"
+	},
+	{
+		"name": "Surprise_Prince.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Surprise_Prince.png?raw=true"
+	},
+	{
+		"name": "Laugh_Ewiz.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Laugh_Ewiz.png?raw=true"
+	},
+	{
+		"name": "Mustache_Prince.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Mustache_Prince.png?raw=true"
+	},
+	{
+		"name": "Santa_Ice_Spirit.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Santa_Ice_Spirit.png?raw=true"
+	},
+	{
+		"name": "Peace_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Peace_Goblin.png?raw=true"
+	},
+	{
+		"name": "Grin_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Grin_Princess.png?raw=true"
+	},
+	{
+		"name": "Facepalm_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Facepalm_Goblin.png?raw=true"
+	},
+	{
+		"name": "Thumbs-Up_Princess.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Thumbs-Up_Princess.png?raw=true"
+	},
+	{
+		"name": "Sword_Barbarian.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Sword_Barbarian.png?raw=true"
+	},
+	{
+		"name": "Bored_Valkyrie.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Bored_Valkyrie.png?raw=true"
+	},
+	{
+		"name": "Flame_Miner.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Flame_Miner.png?raw=true"
+	},
+	{
+		"name": "Lion_Dance_Hoggy.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Lion_Dance_Hoggy.png?raw=true"
+	},
+	{
+		"name": "Pirate_King.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Pirate_King.png?raw=true"
+	},
+	{
+		"name": "Shocked_Ewiz.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Shocked_Ewiz.png?raw=true"
+	},
+	{
+		"name": "Kiss_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Kiss_Goblin.png?raw=true"
+	},
+	{
+		"name": "Cheer_Knight.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Cheer_Knight.png?raw=true"
+	},
+	{
+		"name": "Happy_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Happy_Goblin.png?raw=true"
+	},
+	{
+		"name": "Angry_Giant.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Angry_Giant.png?raw=true"
+	},
+	{
+		"name": "Crying_Log.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Crying_Log.png?raw=true"
+	},
+	{
+		"name": "Scream_Bandit.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Scream_Bandit.png?raw=true"
+	},
+	{
+		"name": "Bola_Ram_Rider.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Bola_Ram_Rider.png?raw=true"
+	},
+	{
+		"name": "Deal_With_It_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Deal_With_It_Goblin.png?raw=true"
+	},
+	{
+		"name": "Laughing_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Laughing_Goblin.png?raw=true"
+	},
+	{
+		"name": "Dagger_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Dagger_Goblin.png?raw=true"
+	},
+	{
+		"name": "Idea_Ewiz.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Idea_Ewiz.png?raw=true"
+	},
+	{
+		"name": "Baby_Dragon_Kissing.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Baby_Dragon_Kissing.png?raw=true"
+	},
+	{
+		"name": "Crying_Skeleton.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Crying_Skeleton.png?raw=true"
+	},
+	{
+		"name": "Pancakes_Mini_PEKKA.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Pancakes_Mini_PEKKA.png?raw=true"
+	},
+	{
+		"name": "Muscle_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Muscle_Goblin.png?raw=true"
+	},
+	{
+		"name": "Eye_Twitch_Goblin.png",
+		"url": "https://github.com/ssPerman01/resource_clash_royale/blob/master/emotion/Eye_Twitch_Goblin.png?raw=true"
+	}
+]
+}
